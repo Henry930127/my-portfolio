@@ -1,7 +1,7 @@
 <template>
   <main style="padding:16px">
     <h2>關於我</h2>
-    <p>我是 XXX，專長 XXX。</p>
+    <p>我是 李忠翰，專長 XXX。</p>
 
     <h2>履歷</h2>
     <ul>
